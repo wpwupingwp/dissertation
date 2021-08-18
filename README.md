@@ -1,5 +1,7 @@
 # Programs in dissertation
 
+[![DOI](https://zenodo.org/badge/397459856.svg)](https://zenodo.org/badge/latestdoi/397459856)
+
 This repository contains programs used in the dissertation. The newest version
 of some programs could be found in their own repositories. Please note the license. 
 If you want to cite this repository, please contact me.
