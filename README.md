@@ -6,6 +6,8 @@ If you want to cite this repository, please contact me.
 
 # Section 2
 
+[assembly-huada.py](https://github.com/wpwupingwp/phd)
+
 [BarcodeFinder](https://github.com/wpwupingwp/barcodefinder)
 
 [NOVOWrap](https://github.com/wpwupingwp/novowrap)
@@ -15,6 +17,8 @@ If you want to cite this repository, please contact me.
 [gb2fasta.py](https://github.com/wpwupingwp/rename)
 
 [get_parents.py](https://github.com/wpwupingwp/aa)
+
+[is_rotated.py](https://github.com/wpwupingwp/phd)
 
 [pyplann](https://github.com/wpwupingwp/pyplann)
 

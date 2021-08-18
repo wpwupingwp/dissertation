@@ -1,0 +1,9 @@
+[submodule "novowrap"]
+	path = novowrap
+	url = git@github.com:wpwupingwp/novowrap
+[submodule "barcodefinder"]
+	path = barcodefinder
+	url = git@github.com:wpwupingwp/barcodefinder
+[submodule "pyplann"]
+	path = pyplann
+	url = git@github.com:wpwupingwp/pyplann
