@@ -28,7 +28,7 @@ If you want to cite this repository, please contact me.
 
 # Section 3
 
-[analyze_len.py](https://github.com/wpwupingwp/python)
+[analyze_len.py](https://github.com/wpwupingwp/phd)
 
 [boundary.py](https://github.com/wpwupingwp/phd)
 
